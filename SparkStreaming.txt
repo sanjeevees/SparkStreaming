@@ -8,6 +8,8 @@ import twitter4j.auth.OAuthAuthorization
 import org.apache.spark.streaming.twitter.TwitterUtils
 
 //testing 2
+// Testing 1
+
 object twitterexample {
   def main(args: Array[String]) {
     val consumerKey="X"
